@@ -1,6 +1,6 @@
 # Pizzas Order Analyze
 
-![](pizzas_hero.jpg)
+![](pizza_hero.jpg)
 
 ## Introduction
 This project involves the analysis of pizza orders to derive valuable insights into order patterns, peak hours, pizza popularity, revenue distribution, and pricing trends.
