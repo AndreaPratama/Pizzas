@@ -107,5 +107,7 @@ No specific machine learning models were utilized in this project. The analysis 
 
 ![](PizzaPy.png) 
 
+### You can interact with Report Here _[Google Colab](https://colab.research.google.com/drive/1ra4nMiDXqgIbYuVeQd2kDSXR8dIDR2CF?usp=sharing)_
+
 ## Conclusion & Recommendation
 The analysis provides valuable insights into order patterns, peak hours, popular pizzas, revenue distribution, and pricing trends. Recommendations for business optimization can be derived from these findings.
